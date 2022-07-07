@@ -2,7 +2,12 @@
 Visualization of Dictionary data structure 
 
 
-## Program Description
+# Requirements
+- Python 3.x
+- tkinter
+
+
+# Program Description
 - The program runs a GUI visualization for the user, and illustrates the operation principle of the Dictionary data structure while implementing its commands.
 - The dictionary will be displayed at the bottom of the screen with all the keys and values arranged in a table with their index, hash value, and status number of each     cell:
   - Occupied
@@ -24,7 +29,7 @@ Visualization of Dictionary data structure
  
  
  
- ## Operating Instructions
+ # Operating Instructions
  **Run the MainApp.py file to run the application.**
  1. First select the Collision Function handling by marking the desired radio button, from the moment the button is selected the program will lock the selected               function and will update the dictionary.
  2. Switching between the radio buttons will show the equation of the Collision Function respectively.
