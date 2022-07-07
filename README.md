@@ -46,7 +46,7 @@ Visualization of Dictionary data structure
    - After deleting, a <Dummy> mark will be marked in the table, which symbolizes a deleted area that cannot be stored until the dictionary grows (resize).
 8. For Index operation:
    - You need to enter a Key that you want to get its index in the table.
-   - If Key doesnt exsist an error message will pop up.
+   - If the Key doesn't exist an error message will pop up.
 9. For Keys operation:
    - All dictionary keys will be printed in the Output Window.
 10. For Operation Values:
@@ -58,6 +58,14 @@ Visualization of Dictionary data structure
     - All settings will be initialized.
     - The table will be cleaned and reset.
     - The selection of collision handling functions will be re-enabled.
-13. For any attempt at an illegal action an error message will pop up describing the error.
+13. For any attempt of an illegal action an error message will pop up describing the error.
+  
+  
+  
+  ## GUI
+  ![image](https://user-images.githubusercontent.com/108329249/177845056-8ac97643-3f60-476c-9e74-b561e298a750.png)
+
+  ![image](https://user-images.githubusercontent.com/108329249/177845075-7ddee9d4-c102-40db-b813-1b2578e14f24.png)
+
  
  
